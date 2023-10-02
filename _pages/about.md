@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: profile
 permalink: /
 subtitle: <a href='#'>ImagingLab@ZJU</a>. (Under Construction)
 
@@ -9,8 +9,8 @@ profile:
   image: myphoto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Teach Bld 3</p>
-    <p>ZheDa Rd No.38</p>
+    <p>Teach Bld 3</p><br>
+    <p>ZheDa Rd No.38</p><br>
     <p>Hangzhou, China 310027</p>
 
 news: false  # includes a list of news items
@@ -20,7 +20,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China<br>
 3180105334@zju.edu.cn, 2363169897@qq.com<br>
-
 [Github](https://github.com/JHW2000) | [Wechat](https://JHW2000.github.io///assets/img/mywechat.png)
 
 I received B.Eng. degree in optoelectronic information science and engineering from Zhejiang University, Hangzhou, China, in 2022.
