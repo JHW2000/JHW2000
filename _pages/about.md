@@ -18,8 +18,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China<br>
-3180105334@zju.edu.cn, 2363169897@qq.com<br>
+State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China
+
+3180105334@zju.edu.cn, 2363169897@qq.com
+
 [Github](https://github.com/JHW2000) | [Wechat](https://JHW2000.github.io///assets/img/mywechat.png)
 
 I received B.Eng. degree in optoelectronic information science and engineering from Zhejiang University, Hangzhou, China, in 2022.
