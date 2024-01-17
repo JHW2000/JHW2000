@@ -30,5 +30,5 @@ Presently, I am a Master Student of Engineering at Zhejiang University, co-advis
 
 **Research interest:** Computational Photography, Deep Learning, Low-level Computer Vision, Image Signal Processing(ISP).
 
-## News
-- **12.2023** A paper has been accepted by **AAAI 2024**! [Paper link](https://arxiv.org/abs/2401.08171) [Project](https://github.com/JHW2000/JARNet) 
+### **News**
+- **12.2023** A paper has been accepted by **AAAI 2024**! [Paper link](https://arxiv.org/abs/2401.08171);  [Project](https://github.com/JHW2000/JARNet) 
