@@ -29,3 +29,6 @@ I received B.Eng. degree in optoelectronic information science and engineering f
 Presently, I am a Master Student of Engineering at Zhejiang University, co-advised by Prof. [Huajun Feng](https://person.zju.edu.cn/0086127) and Prof. [Qi Li](https://person.zju.edu.cn/0098047). My research focuses on multi-lens collaborative imaging based on embedded systems, image restoration and image quality assessment.
 
 **Research interest:** Computational Photography, Deep Learning, Low-level Computer Vision, Image Signal Processing(ISP).
+
+## News
+- **12.2023** A paper has been accepted by **AAAI 2024**! [Paper link](https://arxiv.org/abs/2401.08171) [Project](https://github.com/JHW2000/JARNet) 
